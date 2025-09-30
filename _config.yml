@@ -1,3 +1,7 @@
 title: Tatrzańskie2k
-theme: minima
+# theme: minima
+remote_theme: "jekyll/minima@38a84a9"
 lang: pl
+
+minima:
+  date_format: "%d.%m.%Y"

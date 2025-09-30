@@ -1,6 +1,6 @@
 title: Tatrzańskie2k
 # theme: minima
-remote_theme: "jekyll/minima@38a84a9"
+remote_theme: "jekyll/minima@b3385fe"
 lang: pl
 
 minima:

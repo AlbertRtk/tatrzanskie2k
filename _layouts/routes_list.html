@@ -13,17 +13,19 @@ layout: default
 
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: ""}}</h2>
-    <ul class="post-list">
+    <ul class="routes-list">
       {%- for post in site.posts -%}
       <li>
-        <h3>
+        <h3 class="routes-link">
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
         </h3>
+        <p class="post-summary">
         {%- if post.summary -%}
           {{ post.summary }}
         {%- endif -%}
+        </p>
       </li>
       {%- endfor -%}
     </ul>

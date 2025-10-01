@@ -1,0 +1,24 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.routes-list {
+  margin-left: 15px;
+  margin-right: 15px;
+  list-style: none;
+
+  > li {
+    margin-bottom: $spacing-unit;
+  }
+}
+
+.routes-link {
+    margin-bottom: 0;
+}
+
+.post-summary {
+  font-size: 14px;
+  color: #606060;
+}

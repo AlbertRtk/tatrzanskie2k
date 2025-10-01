@@ -2,6 +2,7 @@ title: Tatrzańskie2k
 theme: minima
 # remote_theme: "jekyll/minima@b3385fe"
 lang: pl
+show_excerpts: false
 
 minima:
   date_format: "%d.%m.%Y"

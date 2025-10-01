@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-!["Panorama"](/img/cover.jpeg)
+![Panorama](/img/cover.jpeg)

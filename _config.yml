@@ -1,5 +1,8 @@
 title: Tatrzańskie2k
-description: Strona stanowi zwięzłą bazę informacji o położeniu oraz dostępnych drogach prowadzących na szczyty i przełęcze ujęte w projekcie Tatrzańskie Dwutysięczniki. Nie zawiera szczegółowych opisów tras, lecz opiera się przede wszystkim na mapach, które stanowią główne źródło informacji dla turystów.
+description: Strona stanowi zwięzłą bazę informacji o położeniu oraz dostępnych drogach prowadzących na szczyty i przełęcze ujęte w projekcie "Tatrzańskie Dwutysięczniki". Opiera się przede wszystkim na mapach, które stanowią główne źródło informacji dla turystów.
+
+author: Albert Ratajczak
+# instagram_username: albi18r
 
 theme: minima
 # remote_theme: "jekyll/minima@b3385fe"

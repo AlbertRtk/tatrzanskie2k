@@ -16,10 +16,11 @@ layout: default
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    {%- if page.summits -%}
-      <p><strong>Szczyty:</strong> {{ page.summits }}</p>
-    {%- endif -%}
-  </br>
+    <p>
+      {%- if page.summits -%}<strong>Szczyty:</strong> {{ page.summits }} <br \>{%- endif -%}
+      {%- if page.passes -%}<strong>Przełęcze:</strong> {{ page.passes }}{%- endif -%}
+    </p>
+  <br \>
 
     <h3>Mapa trasy</h3>
     {{ content }}
